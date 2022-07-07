@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "product": "my",
+      "author": "me"
+    },
+    {
+      "id": 2,
+      "product": "her",
+      "author": "she"
+    },
+    {
+      "id": "3",
+      "product": "sdd",
+      "author": "addad"
+    },
+    {
+      "id": "4",
+      "product": "adada",
+      "author": "dadewrf"
+    }
+  ]
+}
